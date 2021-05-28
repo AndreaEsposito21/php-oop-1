@@ -1,0 +1,7 @@
+Utenti:
+
+Id - PRIMARY KEY - NOTNULL
+Nome - NOTNULL
+Cognome - NOTNULL
+email - NOTNULL
+Password - NOTNULL
